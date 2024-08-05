@@ -1,0 +1,1 @@
+This repository is the first project of The Odin Project. This project contains the first project which is odin recepies.
